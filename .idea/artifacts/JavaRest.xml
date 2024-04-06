@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war exploded" name="JavaRest">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRest</output-path>
+    <root id="root" />
+  </artifact>
+</component>
